@@ -1,12 +1,14 @@
 <div align="center">
-ts-react-boilerplate - Contribution Guide
-GitHub issues
-GitHub forks
-GitHub stars
-GitHub license
+  <h1>mta63089/ts-react-boilerplate - Contribution Guide</h1>
+  
+  [![GitHub issues](https://img.shields.io/github/issues/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/issues)
+  [![GitHub forks](https://img.shields.io/github/forks/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/network)
+  [![GitHub stars](https://img.shields.io/github/stars/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/stargazers)
+  [![GitHub license](https://img.shields.io/github/license/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/blob/main/LICENSE)
 
 </div>
-🐞 Issues
+
+### 🐞 Issues
 If you encounter any issues while using the boilerplate, please report them on the GitHub Issues page. When submitting an issue, please include:
 
 A clear and concise description of the issue
@@ -15,20 +17,9 @@ Expected behavior
 Actual behavior
 Screenshots (if applicable)
 Any other relevant information
-🤝 Contributing
-We welcome contributions via pull requests! Before getting started, please ensure that you have read and understood our Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
-Getting Started
-To contribute to this project, you will need to fork the repository and create a new branch for your feature or bug fix. When making changes, please follow our Style Guide to ensure consistency throughout the codebase.
-
-Submitting Changes
-When you are ready to submit your changes, please create a pull request to the main repository. Be sure to include a clear and concise description of the changes you have made, as well as any relevant screenshots or other information. Please also ensure that all tests pass by running npm run test or yarn test, and that your code is properly linted by running npm run lint or yarn lint.
-
-Review Process
-All pull requests will be reviewed by a member of the ts-react-boilerplate team. We appreciate your patience during the review process, and will do our best to provide timely feedback.
-
-🙏 Thank You
-Thank you for your contribution to ts-react-boilerplate! By contributing to this project, you are helping to improve the development experience for others. If you have any questions or concerns, please reach out to the maintainer, Michael Albert, at michael.albert@intimetec.com.
+### 🤝 Contributing
+Currently I am not accepting contributions at this time. Once I have a stable version up I will reconsider this. But please if you notice anything that can be improved or find an error while using my code, please contact me via my information on the readme or submit an issue using the process outlined above. 
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
