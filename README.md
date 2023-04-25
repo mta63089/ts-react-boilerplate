@@ -1,40 +1,56 @@
-# Getting Started with Create React App
+# ts-react-boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![GitHub issues](https://img.shields.io/github/issues/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/network)
+[![GitHub stars](https://img.shields.io/github/stars/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/blob/main/LICENSE)
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+This repository contains a React typescript boilerplate full stack suite with example pages and components highlighting the following tech:
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## **- React**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## **- @reduxjs-react/toolkit**
+  
+## **- react-router**
 
-### `npm test`
+## **- Cypress**  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **- typescript**
 
-### `npm run build`
+## **- typescriptreact**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **- eslint**, **prettier**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## **- tailwindCSS**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Intent
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+For now the intent of this repo is to showcase an uncommon full stack setup using some of the best libraries, packages, framework, and tooling out there. In the future I hope to incrementally add features like component and page generation as well as a workflow generator. Currently, this is still a work in progress and I cant guarantee its functionality for your situation but encourage you to make a similar boilerplate for yourself to get a better understanding of how some of the new tech feels to develop as well as have something in place for yourself to create some cool new apps!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To get started, clone this repository to your local machine and follow the instructions in the [SETUP.md](SETUP.md) file.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contributing
+
+Contributions are not being accepted at this time. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## 📞 Contact
+
+If you have any questions, feedback, or just want to say hi, feel free to reach out to us through any of the following:
+
+[![GitHub icon](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mta63089)
+[![LinkedIn icon](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mta630/)
+[![Email icon](https://img.shields.io/badge/-Email-red?style=flat-square&logo=mail.ru)](mailto:michael.albert@intimetec.com)
+
+Happy coding! 🚀
