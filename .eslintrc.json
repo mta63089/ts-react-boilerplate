@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "react-app",
+    "airbnb-typescript",
+    "plugin:prettier/recommended"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "space-before-blocks": "warn",
+    "space-in-parens": "warn",
+    "space-before-function-paren": "warn"
+  }
+}

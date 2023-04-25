@@ -1,59 +1,46 @@
-<div align="center">
+# Getting Started with Create React App
 
-# ts-react-boilerplate
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![GitHub issues](https://img.shields.io/github/issues/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/issues)
-[![GitHub forks](https://img.shields.io/github/forks/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/network)
-[![GitHub stars](https://img.shields.io/github/stars/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/stargazers)
-[![GitHub license](https://img.shields.io/github/license/mta63089/ts-react-boilerplate.svg)](https://github.com/mta63089/ts-react-boilerplate/blob/main/LICENSE)
+## Available Scripts
 
-</div>
+In the project directory, you can run:
 
-## Introduction
+### `npm start`
 
-This repository contains a React typescript boilerplate full stack suite with example pages and components highlighting the following tech:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-   - **React**
-   - **ReduxJS-Toolkit**
-   - React Router and Hooks
-   - Cypress (For unit tests)
-   - Written using only **typescript** and **typescriptreact** file types (.ts .tsx)
-   - Linting and formatting config fully set up using **eslint**, **prettier**, and parsing with **@typescript-eslint**
-   - **NestJS** backend
-   - Styling and example custom components with **TailwindCSS**
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## Table of Contents
+### `npm test`
 
-- [Intent](#intent)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Intent
+### `npm run build`
 
-For now the intent of this repo is to showcase an uncommon full stack setup using some of the best libraries, packages, framework, and tooling out there. In the future I hope to incrementally add features like component and page generation as well as a workflow generator. Currently, this is still a work in progress and I cant guarantee its functionality for your situation but encourage you to make a similar boilerplate for yourself to get a better understanding of how some of the new tech feels to develop as well as have something in place for yourself to create some cool new apps!
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Getting Started
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-To get started, clone this repository to your local machine and follow the instructions in the [SETUP.md](SETUP.md) file.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-## Contributing
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contributions are not being accepted at this time. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## License
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Learn More
 
-## 📞 Contact
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-If you have any questions, feedback, or just want to say hi, feel free to reach out to us through any of the following:
-
-[![GitHub icon](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mta63089)
-[![LinkedIn icon](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mta630/)
-[![Email icon](https://img.shields.io/badge/-Email-red?style=flat-square&logo=mail.ru)](mailto:michael.albert@intimetec.com)
-
-Happy coding! 🚀
+To learn React, check out the [React documentation](https://reactjs.org/).
